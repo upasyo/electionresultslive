@@ -2,5 +2,7 @@
   "name": "MidtermPulse 2026 - US Election Broadcasting Platform",
   "description": "Professional real-time US election results broadcasting platform with 3D interactive electoral map, live analytics, voice narration, and CMS admin portal.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
